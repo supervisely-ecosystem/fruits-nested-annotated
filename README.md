@@ -23,7 +23,7 @@
 
 ## Overview
 
- `Fruits Nested Annotated` is an example project with 22 unlabeled images, 2 datasets and 7 nested datasets.
+ `Fruits Nested Annotated` is an example project with 22 labeled and tagged images, 2 parent datasets and 7 nested datasets.
 
 ## Description
 
@@ -35,4 +35,4 @@ Direct download: [tar archive]() (1,14 MB).
 
 ## Statistics
 
-Project contains 2 parent datasets, 7 nested datasets and 22 images in it, with bounding box annotations and tags.
+Project contains 2 parent datasets, 7 nested datasets and 22 images in it. All images are labeled and tagged.

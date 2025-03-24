@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 252330,
+            "tagId": 4740,
+            "name": "Pineapple",
+            "value": null,
+            "labelerLogin": "cxnt",
+            "createdAt": "2025-03-24T14:04:19.619Z",
+            "updatedAt": "2025-03-24T14:04:19.619Z"
+        }
+    ],
+    "size": {
+        "height": 4608,
+        "width": 3456
+    },
+    "objects": [
+        {
+            "id": 916384,
+            "classId": 32391,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2025-03-24T14:04:16.067Z",
+            "updatedAt": "2025-03-24T14:04:16.067Z",
+            "tags": [
+                {
+                    "id": 575855,
+                    "tagId": 4740,
+                    "name": "Pineapple",
+                    "value": null,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2025-03-24T14:04:27.895Z",
+                    "updatedAt": "2025-03-24T14:04:27.895Z"
+                }
+            ],
+            "classTitle": "Pineapple",
+            "points": {
+                "exterior": [
+                    [
+                        1317,
+                        1557
+                    ],
+                    [
+                        2212,
+                        3018
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

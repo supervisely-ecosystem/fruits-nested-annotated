@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "size": {
+        "height": 6000,
+        "width": 4000
+    },
+    "tags": [
+        {
+            "name": "Banana",
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T14:07:19.999Z",
+            "createdAt": "2025-03-24T14:07:19.999Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "Banana",
+            "description": "",
+            "tags": [
+                {
+                    "name": "Banana",
+                    "labelerLogin": "cxnt",
+                    "updatedAt": "2025-03-24T14:07:22.044Z",
+                    "createdAt": "2025-03-24T14:07:22.044Z"
+                }
+            ],
+            "points": {
+                "exterior": [
+                    [
+                        859,
+                        2422
+                    ],
+                    [
+                        3415,
+                        3791
+                    ]
+                ],
+                "interior": []
+            },
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T13:59:08.499Z",
+            "createdAt": "2025-03-24T13:59:08.499Z",
+            "id": 916371,
+            "classId": 32394,
+            "geometryType": "rectangle",
+            "shape": "rectangle"
+        }
+    ],
+    "customBigData": {}
+}

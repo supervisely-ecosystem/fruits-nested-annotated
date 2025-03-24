@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 252346,
+            "tagId": 4744,
+            "name": "Lemon",
+            "value": null,
+            "labelerLogin": "cxnt",
+            "createdAt": "2025-03-24T14:06:41.034Z",
+            "updatedAt": "2025-03-24T14:06:41.034Z"
+        }
+    ],
+    "size": {
+        "height": 3264,
+        "width": 4928
+    },
+    "objects": [
+        {
+            "id": 916372,
+            "classId": 32389,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2025-03-24T13:59:22.379Z",
+            "updatedAt": "2025-03-24T13:59:22.379Z",
+            "tags": [
+                {
+                    "id": 575871,
+                    "tagId": 4744,
+                    "name": "Lemon",
+                    "value": null,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2025-03-24T14:06:42.919Z",
+                    "updatedAt": "2025-03-24T14:06:42.919Z"
+                }
+            ],
+            "classTitle": "Lemon",
+            "points": {
+                "exterior": [
+                    [
+                        2978,
+                        869
+                    ],
+                    [
+                        4263,
+                        1942
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "size": {
+        "height": 4032,
+        "width": 3024
+    },
+    "tags": [
+        {
+            "name": "Mango",
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T14:06:23.682Z",
+            "createdAt": "2025-03-24T14:06:23.682Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "Mango",
+            "description": "",
+            "tags": [
+                {
+                    "name": "Mango",
+                    "labelerLogin": "cxnt",
+                    "updatedAt": "2025-03-24T14:06:25.646Z",
+                    "createdAt": "2025-03-24T14:06:25.646Z"
+                }
+            ],
+            "points": {
+                "exterior": [
+                    [
+                        1259,
+                        1566
+                    ],
+                    [
+                        1754,
+                        2326
+                    ]
+                ],
+                "interior": []
+            },
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T14:00:26.364Z",
+            "createdAt": "2025-03-24T14:00:26.364Z",
+            "id": 916376,
+            "classId": 32397,
+            "geometryType": "rectangle",
+            "shape": "rectangle"
+        }
+    ],
+    "customBigData": {}
+}

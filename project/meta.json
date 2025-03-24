@@ -1,0 +1,149 @@
+{
+    "classes": [
+        {
+            "title": "Lemon",
+            "description": "",
+            "shape": "rectangle",
+            "color": "#9013FE",
+            "geometry_config": {},
+            "id": 32389,
+            "hotkey": ""
+        },
+        {
+            "title": "Apple",
+            "description": "",
+            "shape": "rectangle",
+            "color": "#D0021B",
+            "geometry_config": {},
+            "id": 32390,
+            "hotkey": ""
+        },
+        {
+            "title": "Pineapple",
+            "description": "",
+            "shape": "rectangle",
+            "color": "#F8E71C",
+            "geometry_config": {},
+            "id": 32391,
+            "hotkey": ""
+        },
+        {
+            "title": "Pear",
+            "description": "",
+            "shape": "rectangle",
+            "color": "#7ED321",
+            "geometry_config": {},
+            "id": 32392,
+            "hotkey": ""
+        },
+        {
+            "title": "Orange",
+            "description": "",
+            "shape": "rectangle",
+            "color": "#50E3C2",
+            "geometry_config": {},
+            "id": 32393,
+            "hotkey": ""
+        },
+        {
+            "title": "Banana",
+            "description": "",
+            "shape": "rectangle",
+            "color": "#8B572A",
+            "geometry_config": {},
+            "id": 32394,
+            "hotkey": ""
+        },
+        {
+            "title": "Mango",
+            "description": "",
+            "shape": "rectangle",
+            "color": "#4A90E2",
+            "geometry_config": {},
+            "id": 32397,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "Apple",
+            "value_type": "none",
+            "color": "#D0021B",
+            "id": 4738,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "Banana",
+            "value_type": "none",
+            "color": "#8B572A",
+            "id": 4739,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "Lemon",
+            "value_type": "none",
+            "color": "#9013FE",
+            "id": 4744,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "Mango",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 4741,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "Orange",
+            "value_type": "none",
+            "color": "#50E3C2",
+            "id": 4743,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "Pear",
+            "value_type": "none",
+            "color": "#7ED321",
+            "id": 4742,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "Pineapple",
+            "value_type": "none",
+            "color": "#F8E71C",
+            "id": 4740,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        }
+    ],
+    "projectType": "images",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        },
+        "labelingInterface": "default"
+    }
+}

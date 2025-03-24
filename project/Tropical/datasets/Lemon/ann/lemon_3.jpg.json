@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "size": {
+        "height": 6016,
+        "width": 4016
+    },
+    "tags": [
+        {
+            "name": "Lemon",
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T14:06:49.865Z",
+            "createdAt": "2025-03-24T14:06:49.865Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "Lemon",
+            "description": "",
+            "tags": [
+                {
+                    "name": "Lemon",
+                    "labelerLogin": "cxnt",
+                    "updatedAt": "2025-03-24T14:06:51.795Z",
+                    "createdAt": "2025-03-24T14:06:51.795Z"
+                }
+            ],
+            "points": {
+                "exterior": [
+                    [
+                        1353,
+                        2746
+                    ],
+                    [
+                        2521,
+                        4501
+                    ]
+                ],
+                "interior": []
+            },
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T13:59:34.533Z",
+            "createdAt": "2025-03-24T13:59:34.533Z",
+            "id": 916374,
+            "classId": 32389,
+            "geometryType": "rectangle",
+            "shape": "rectangle"
+        }
+    ],
+    "customBigData": {}
+}

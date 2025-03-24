@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 252333,
+            "tagId": 4738,
+            "name": "Apple",
+            "value": null,
+            "labelerLogin": "cxnt",
+            "createdAt": "2025-03-24T14:05:05.903Z",
+            "updatedAt": "2025-03-24T14:05:05.903Z"
+        }
+    ],
+    "size": {
+        "height": 3000,
+        "width": 2000
+    },
+    "objects": [
+        {
+            "id": 916364,
+            "classId": 32390,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2025-03-24T13:57:40.462Z",
+            "updatedAt": "2025-03-24T13:57:40.462Z",
+            "tags": [
+                {
+                    "id": 575858,
+                    "tagId": 4738,
+                    "name": "Apple",
+                    "value": null,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2025-03-24T14:05:04.513Z",
+                    "updatedAt": "2025-03-24T14:05:04.513Z"
+                }
+            ],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        871,
+                        1662
+                    ],
+                    [
+                        1308,
+                        2119
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

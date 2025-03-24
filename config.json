@@ -1,0 +1,12 @@
+{
+  "name": "Fruits Nested (Annotated)",
+  "description": "Example project with nested datasets and labeled images",
+  "type": "project",
+  "categories": [
+    "import",
+    "images",
+    "project"
+  ],
+  "icon": "https://i.imgur.com/EokfMn8.png",
+  "icon_cover": true
+}

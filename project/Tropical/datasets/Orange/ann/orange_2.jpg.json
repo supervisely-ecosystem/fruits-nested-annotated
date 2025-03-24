@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "size": {
+        "height": 4928,
+        "width": 3264
+    },
+    "tags": [
+        {
+            "name": "Orange",
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T14:06:05.777Z",
+            "createdAt": "2025-03-24T14:06:05.777Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "Orange",
+            "description": "",
+            "tags": [
+                {
+                    "name": "Orange",
+                    "labelerLogin": "cxnt",
+                    "updatedAt": "2025-03-24T14:06:04.658Z",
+                    "createdAt": "2025-03-24T14:06:04.658Z"
+                }
+            ],
+            "points": {
+                "exterior": [
+                    [
+                        1063,
+                        2027
+                    ],
+                    [
+                        2334,
+                        3325
+                    ]
+                ],
+                "interior": []
+            },
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T14:03:43.669Z",
+            "createdAt": "2025-03-24T14:03:43.669Z",
+            "id": 916381,
+            "classId": 32393,
+            "geometryType": "rectangle",
+            "shape": "rectangle"
+        }
+    ],
+    "customBigData": {}
+}

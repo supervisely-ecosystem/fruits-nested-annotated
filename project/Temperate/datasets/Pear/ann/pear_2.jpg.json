@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "size": {
+        "height": 4608,
+        "width": 3072
+    },
+    "tags": [
+        {
+            "name": "Pear",
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T14:05:22.958Z",
+            "createdAt": "2025-03-24T14:05:22.958Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "Pear",
+            "description": "",
+            "tags": [
+                {
+                    "name": "Pear",
+                    "labelerLogin": "cxnt",
+                    "updatedAt": "2025-03-24T14:05:21.088Z",
+                    "createdAt": "2025-03-24T14:05:21.088Z"
+                }
+            ],
+            "points": {
+                "exterior": [
+                    [
+                        796,
+                        1800
+                    ],
+                    [
+                        2339,
+                        4075
+                    ]
+                ],
+                "interior": []
+            },
+            "labelerLogin": "cxnt",
+            "updatedAt": "2025-03-24T13:57:13.367Z",
+            "createdAt": "2025-03-24T13:57:13.367Z",
+            "id": 916361,
+            "classId": 32392,
+            "geometryType": "rectangle",
+            "shape": "rectangle"
+        }
+    ],
+    "customBigData": {}
+}
